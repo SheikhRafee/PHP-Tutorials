@@ -20,5 +20,15 @@
 
     var_dump($name, $number, $status );
 
+    echo "<br>";
+
+    echo "<br>";
+
+    ctype_alpha($name);
+
+    $a = 0;
+
+    echo !$a;
+
 
 ?>
